@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/classify/classify",
+    "pages/my/my"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "攻城狮资料馆",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#cbcbcb",
+    "selectedColor": "#1380ff",
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "selectedIconPath": "pages/assets/imgs/index_icon/home_press.png",
+        "iconPath": "pages/assets/imgs/index_icon/home.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "pages/assets/imgs/index_icon/classify_press.png",
+        "iconPath": "pages/assets/imgs/index_icon/classify.png",
+        "pagePath": "pages/classify/classify",
+        "text": "分类"
+      },
+      {
+        "selectedIconPath": "pages/assets/imgs/index_icon/my_press.png",
+        "iconPath": "pages/assets/imgs/index_icon/my.png",
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
