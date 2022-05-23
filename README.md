@@ -24,6 +24,8 @@ Also, we welcome Issue or PR to our [official-plugins](https://github.com/applet
 <!-- readme: collaborators,contributors -end -->
 
 <!-- readme: bots -start -->
+<table>
+</table>
 <!-- readme: bots -end -->
 
 # Repository Status
