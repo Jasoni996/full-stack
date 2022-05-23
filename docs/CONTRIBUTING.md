@@ -5,13 +5,13 @@
 
 # Full Stack Engineers Archive
 
-Thanks for taking your time to contribute and help make our project even better than it is today! In order for us to better manage the project, please observe the following creation rules of `Pull Request`
+Thanks for taking your time to contribute and help make our project even better than it is today! In order for us to better manage the project, please observe the following creation rules of `Pull Request`.
 
 - Clone the `main` branch of the repository locally
 - Create a development branch with the format `dev-nickname`
 - Open a new `Pull Request`
 
-If your code does not conflict with an existing branch, we will merge it as soon as possible. Thank you for your contribution.  After the branches are merged, your avatar and nickname will be displayed on the [contributor form](https://github.com/appletdevelop/full-stack#contributing)
+If your code does not conflict with an existing branch, we will merge it as soon as possible. Thank you for your contribution.  After the branches are merged, your avatar and nickname will be displayed on the [contributor form](https://github.com/appletdevelop/full-stack#contributing).
 
 If you have any questions, you can contact us through any of the following channels
 
