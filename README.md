@@ -23,6 +23,11 @@ Also, we welcome Issue or PR to our [official-plugins](https://github.com/applet
 </table>
 <!-- readme: collaborators,contributors -end -->
 
+<!-- readme: bots -start -->
+<table>
+</table>
+<!-- readme: bots -end -->
+
 # Contact us
 
 If you have any questions, you can contact us through any of the following channels
