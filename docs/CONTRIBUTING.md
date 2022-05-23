@@ -11,6 +11,12 @@ Thanks for taking your time to contribute and help make our project even better 
 - Create a development branch with the format `dev-nickname`
 - Open a new `Pull Request`
 
+The process for creating and merging branches is as follows
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86602255/169849996-648cbaed-c84c-479b-95d2-547b5eb0dae1.svg" alt="branch flow">
+</div>
+
 If your code does not conflict with an existing branch, we will merge it as soon as possible. Thank you for your contribution.  After the branches are merged, your avatar and nickname will be displayed on the [contributor form](https://github.com/appletdevelop/full-stack#contributing).
 
 If you have any questions, you can contact us through any of the following channels
