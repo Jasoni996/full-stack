@@ -11,6 +11,16 @@ We welcome you to join the development of this applet. Please see [contributing 
 Also, we welcome Issue or PR to our [official-plugins](https://github.com/appletdevelop). 🐛
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/PDPENG">
+            <img src="https://avatars.githubusercontent.com/u/86602255?v=4" width="100;" alt="PDPENG"/>
+            <br />
+            <sub><b>Jason</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
 
 # Repository Status
