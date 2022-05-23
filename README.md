@@ -10,6 +10,9 @@ We welcome you to join the development of this applet. Please see [contributing 
 
 Also, we welcome Issue or PR to our [official-plugins](https://github.com/appletdevelop). 🐛
 
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
+
 # Repository Status
 
 <div align="center">
