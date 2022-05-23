@@ -10,7 +10,7 @@ We welcome you to join the development of this applet. Please see [contributing 
 
 Also, we welcome Issue or PR to our [official-plugins](https://github.com/appletdevelop). 🐛
 
-<!-- readme: collaborators,contributors,bots -start -->
+<!-- readme: collaborators,contributors -start -->
 <table>
 <tr>
     <td align="center">
@@ -21,7 +21,10 @@ Also, we welcome Issue or PR to our [official-plugins](https://github.com/applet
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators,contributors,bots -end -->
+<!-- readme: collaborators,contributors -end -->
+
+<!-- readme: bots -start -->
+<!-- readme: bots -end -->
 
 # Repository Status
 
