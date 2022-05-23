@@ -19,13 +19,6 @@ Also, we welcome Issue or PR to our [official-plugins](https://github.com/applet
             <br />
             <sub><b>Jason</b></sub>
         </a>
-    </td>
-   <td align="center">
-        <a href="https://github.com/appletdevelop/full-stack/actions">
-            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
-            <br />
-            <sub><b>github-actions[bot]</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
