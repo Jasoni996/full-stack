@@ -14,10 +14,17 @@ Also, we welcome Issue or PR to our [official-plugins](https://github.com/applet
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/PDPENG">
-            <img src="https://avatars.githubusercontent.com/u/86602255?v=4" width="100;" alt="PDPENG"/>
+        <a href="https://github.com/appletdevelop/full-stack/actions">
+            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
             <br />
-            <sub><b>Jason</b></sub>
+            <sub><b>github-actions[bot]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dependabot[bot]">
+            <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100;" alt="dependabot[bot]"/>
+            <br />
+            <sub><b>dependabot[bot]</b></sub>
         </a>
     </td></tr>
 </table>
