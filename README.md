@@ -19,6 +19,13 @@ Also, we welcome Issue or PR to our [official-plugins](https://github.com/applet
             <br />
             <sub><b>Jason</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Mr-L-R-Y">
+            <img src="https://avatars.githubusercontent.com/u/77771186?v=4" width="100;" alt="Mr-L-R-Y"/>
+            <br />
+            <sub><b>Mr-L-R-Y</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
